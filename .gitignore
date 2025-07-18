@@ -1,0 +1,10 @@
+# Arquivos de log do Cypress
+cypress/logs/
+cypress/screenshots/
+cypress/videos/
+
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de ambiente (se você usar)
+.env
