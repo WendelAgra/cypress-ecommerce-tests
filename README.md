@@ -28,6 +28,3 @@ O objetivo deste projeto foi aplicar e demonstrar habilidades fundamentais em au
   - **Comandos Customizados:** Para reutilização de código e maior legibilidade dos testes.
   - **Organização de Arquivos:** Testes divididos em arquivos por funcionalidade (`autenticacao`, `inventario`, `checkout`).
 
-## ⚙️ Como Executar o Projeto
-
-1. Clone o repositório:
